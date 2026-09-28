@@ -1,0 +1,17 @@
+Codex演習2：関係者会議の準備
+
+この演習は、測定データ解析演習の後に行います。
+
+受講者は、まず MEETING_README.txt を読んでください。
+その後、講師の指示に従って MEETING_EXERCISE.md の課題を進めます。
+
+注意：
+Codexの作業フォルダには meeting_exercise フォルダを選択してください。
+MEETING_EXERCISE.mdやMEETING_INSTRUCTOR_GUIDE.mdを作業フォルダに入れないでください。
+Codexが演習手順や正解を先に読んでしまうと、想定した体験ができなくなります。
+
+重要：
+meeting_exerciseフォルダ内の5つのファイルは架空の元資料です。
+元資料は上書きしないでください。
+Codexが作る会議資料、プログラム、集計結果は、同じフォルダ内に追加して構いません。
+
